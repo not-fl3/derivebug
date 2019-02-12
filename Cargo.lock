@@ -1,0 +1,11 @@
+[[package]]
+name = "derivebug"
+version = "0.1.0"
+dependencies = [
+ "foobar 0.1.0",
+]
+
+[[package]]
+name = "foobar"
+version = "0.1.0"
+

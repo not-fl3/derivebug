@@ -1,0 +1,8 @@
+[package]
+name = "derivebug"
+version = "0.1.0"
+authors = ["not-fl3 <not.fl3@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+foobar = {path = "./foobar"}
